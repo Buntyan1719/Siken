@@ -8,15 +8,13 @@ let こちら=https://line.me/ti/g2/NdVKHoWOJwXVrL-3Rn5sQA7JGbSadIOnPFNMFQ?utm_s
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<title>夙夜夢寐(syukuyamubi)にようこそ！</title>
-	<!-- Bootstrap -->
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
 
 </head>
 
 <body>
 	<h1>夙夜夢寐について/h1>
-	<p class="lead">夙夜夢寐は、元管理人(Bun)が初めに作ったオプであり、現在はBunの師匠であるkyoが管理人である50人程度のオプ</p>
-	<a class="btn btn-primary" href="#">リンクは(`${こちら})から</a>
+	<p>夙夜夢寐は、元管理人(Bun)が初めに作ったオプであり、現在はBunの師匠であるkyoが管理人である50人程度のオプ</p>
+	<a class="btn btn-primary" href="#">OK</a>
     
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
