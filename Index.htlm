@@ -7,9 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <title>試験用だよ</title>
-    <!-- Bootstrap -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-    <script>https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+
     <style>
         body {
             padding-top: 50px;
@@ -26,19 +24,15 @@
 <body>
     <div class="container">
         <div class="starter-template">
-            <h1>吾輩は猫である。</h1>
-            <p class="lead">名前はまだない。</p>
+            <h1>妾は人間である。</h1>
+            <p class="lead">↓ねこ</p>
             <img class="img-responsive center-block" src="https://paiza-webapp.s3.amazonaws.com/files/learning/photo_cat_1024.jpg"/>
-            <p>どこで生れたかとんと見当がつかぬ。何でも薄暗いじめじめした所でニャーニャー泣いていた事だけは記憶している。吾輩はここで始めて人間というものを見た。しかもあとで聞くとそれは書生という人間中で一番獰悪な種族であったそうだ。この書生というのは時々我々を捕えて煮て食うという話である。しかしその当時は何という考もなかったから別段恐しいとも思わなかった。ただ彼の掌に載せられてスーと持ち上げられた時何だかフワフワした感じがあったばかりである。
-            </p>
+            <p>妾は猫が好きじゃ</p>
             <a href="paiza.jp" target="_blank"
             >これはウィキだよ</a>
         </div>
     </div>
-    <!-- /.container -->
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 </body>
 
 </html>
