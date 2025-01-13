@@ -1,4 +1,3 @@
-<!-- 画像とリンク-->
 <!DOCTYPE html>
 <html lang="ja">
 
@@ -7,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Project Nyaan</title>
+    <title>試験用だよ</title>
     <!-- Bootstrap -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
     <script>https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
@@ -32,9 +31,8 @@
             <img class="img-responsive center-block" src="https://paiza-webapp.s3.amazonaws.com/files/learning/photo_cat_1024.jpg"/>
             <p>どこで生れたかとんと見当がつかぬ。何でも薄暗いじめじめした所でニャーニャー泣いていた事だけは記憶している。吾輩はここで始めて人間というものを見た。しかもあとで聞くとそれは書生という人間中で一番獰悪な種族であったそうだ。この書生というのは時々我々を捕えて煮て食うという話である。しかしその当時は何という考もなかったから別段恐しいとも思わなかった。ただ彼の掌に載せられてスーと持ち上げられた時何だかフワフワした感じがあったばかりである。
             </p>
-            <a class="btn btn-primary" href="#">OK</a>
             <a href="paiza.jp" target="_blank"
-            >ウィキだよ</a>
+            >これはウィキだよ</a>
         </div>
     </div>
     <!-- /.container -->
