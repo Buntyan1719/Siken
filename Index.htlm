@@ -8,30 +8,16 @@
 
     <title>試験用だよ</title>
 
-    <style>
-        body {
-            padding-top: 50px;
-            background-color: lightgray;
-        }
-
-        .starter-template {
-            padding: 40px 15px;
-            background-color: white;
-        }
-    </style>
 </head>
 
 <body>
     <div class="container">
         <div class="starter-template">
             <h1>妾は人間である。</h1>
-            <p class="lead">↓ねこ</p>
-            <img class="img-responsive center-block" src="https://paiza-webapp.s3.amazonaws.com/files/learning/photo_cat_1024.jpg"/>
             <p>妾は猫が好きじゃ</p>
             <a href="paiza.jp" target="_blank"
             >これはウィキだよ</a>
         </div>
-    </div>
 
 </body>
 
