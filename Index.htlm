@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="ja">
+<html>
 
 <head>
     <meta charset="utf-8">
@@ -16,7 +15,7 @@
             <h1>妾は人間である。</h1>
             <p>妾は猫が好きじゃ</p>
             <a href="paiza.jp" target="_blank"
-            >これはウィキだよ</a>
+            >Hello paiza!</a>
         </div>
 
 </body>
